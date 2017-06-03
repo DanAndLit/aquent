@@ -1,6 +1,8 @@
 
 
-First Crack at Full Site
+First Crack at Full Site, currently through Lesson 2
+
+https://danandlit.github.io/dachshund/
 
 Thank you to Aquent & Gymnasium
 
